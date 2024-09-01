@@ -4,6 +4,7 @@
 <p align="justify">
 This Python project is designed to create user profiles based on their skills and recommend suitable bootcamps accordingly. The project also keeps track of the number of registrations for each bootcamp, and it automatically removes a bootcamp from the list once it reaches its maximum capacity.
 </p>
+
 ## Features
 
 - **User Profile Creation**: The system takes the user's full name, email, and a list of skills to create a personalized profile.
